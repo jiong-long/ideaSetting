@@ -1,0 +1,96 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="http://git.dev.qianmi.com/open/api.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.dev.qianmi.com/product/product-center-new.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.dev.qianmi.com" />
+          <option name="userName" value="OF3848" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.dev.qianmi.com/open/oauth.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.dev.qianmi.com/open/crm.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.dev.qianmi.com/open/qmcs-netty-server.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.dev.qianmi.com/open/console.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.dev.qianmi.com/product/pc-micro-stock.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.dev.qianmi.com/open/qmcs.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.dev.qianmi.com/gcs/oms.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.dev.qianmi.com/retail/d2c-tc-app.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.dev.qianmi.com/gcs/cloudshop-api.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.dev.qianmi.com/tda/ocean-doc" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.dev.qianmi.com/tda/ocean" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.dev.qianmi.com/BI/bi-admin-bff" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.dev.qianmi.com/dba/scm_bi_mysql" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.dev.qianmi.com/gcs/admin-api.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.dev.qianmi.com/gcs/admin-d2c-api.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.dev.qianmi.com/retail/trade-view.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="$USER_HOME$/dev/idea-workspace" />
+  </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="1" />
+        <option value="2" />
+        <option value="3" />
+      </list>
+    </option>
+  </component>
+</application>

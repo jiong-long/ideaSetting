@@ -1,0 +1,34 @@
+<keymap version="1" name="Eclipse (macOS) copy" parent="Eclipse (Mac OS X)">
+  <action id="ChangesView.Move" />
+  <action id="ClassNameCompletion" />
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
+  <action id="Console.TableResult.NextPage" />
+  <action id="Console.TableResult.SetDefault">
+    <keyboard-shortcut first-keystroke="meta alt 0" />
+  </action>
+  <action id="Diff.ApplyLeftSide" />
+  <action id="Diff.ApplyRightSide" />
+  <action id="EditorLookupDown" />
+  <action id="EditorLookupUp" />
+  <action id="EditorSelectWord" />
+  <action id="EditorToggleCase">
+    <keyboard-shortcut first-keystroke="shift meta x" />
+  </action>
+  <action id="EditorUnSelectWord" />
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="meta f" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="f3" />
+    <mouse-shortcut keystroke="meta button1" />
+  </action>
+  <action id="HippieCompletion" />
+  <action id="NextDiff" />
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="ShowContent" />
+  <action id="Vcs.MoveChangedLinesToChangelist" />
+</keymap>

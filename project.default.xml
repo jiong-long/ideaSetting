@@ -1,0 +1,59 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="CodeInsightWorkspaceSettings">
+        <option name="optimizeImportsOnTheFly" value="true" />
+      </component>
+      <component name="Encoding" native2AsciiForPropertiesFiles="true" />
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="localRepository" value="$USER_HOME$/dev/apache/maven_repository" />
+            <option name="userSettingsFile" value="$USER_HOME$/dev/apache/apache-maven-3.6.1/conf/settings_qm.xml" />
+          </MavenGeneralSettings>
+        </option>
+        <option name="importingSettings">
+          <MavenImportingSettings>
+            <option name="vmOptionsForImporter" value="-Xmx768m" />
+          </MavenImportingSettings>
+        </option>
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State />
+              <State>
+                <id>SQL</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>SqlDialectInspection</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.7</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
