@@ -25,6 +25,11 @@
         <option value="deep-completions" />
       </set>
     </option>
+    <option name="completeIndexingProjects">
+      <map>
+        <entry key="3a32a3ba" value="1" />
+      </map>
+    </option>
     <option name="incompleteIndexingProjects">
       <set>
         <option value="b6e90997" />
