@@ -222,6 +222,10 @@
           <option name="url" value="http://git.dev.qianmi.com/pug/partner-sale.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.dev.qianmi.com/uc-connection/uc-conn-retail.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/dev/idea-workspace" />
