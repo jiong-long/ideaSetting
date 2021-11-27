@@ -1,0 +1,14 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="subtract" />
+      <item value="Home Inventory Summary Response" />
+      <item value="list" />
+      <item value="计算日均" />
+    </histories>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+    <option name="translator" value="fanyi.baidu" />
+  </component>
+</application>
