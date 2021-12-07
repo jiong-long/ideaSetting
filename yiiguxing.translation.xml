@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="/** * Defines zero (0) or more exception names (for exceptions which must be a * subclass of {@link Throwable}), indicating which exception types must cause * a transaction rollback. * &lt;p&gt;This can be a substring of a fully qualified class name, with no wildcard * support at present. For example, a value of {@code &quot;ServletException&quot;} would * match {@code javax.servlet.ServletException} and its subclasses. * &lt;p&gt;&lt;b&gt;NB:&lt;/b&gt; Consider carefully how specific the pattern is and whether * to include package information (which isn't mandatory). For example, * {@code &quot;Exception&quot;} will match nearly anything and will probably hide other * rules. {@code &quot;java.lang.Exception&quot;} would be correct if {@code &quot;Exception&quot;} * were meant to define a rule for all checked exceptions. With more unusual * {@link Exception} names such as {@code &quot;BaseBusinessException&quot;} there is no * need to use a FQN. * &lt;p&gt;Similar to {@link org.springframework.transaction.interceptor.RollbackRuleAttribute#RollbackRuleAttribute(String exceptionName)}. * @see #rollbackFor * @see org.springframework.transaction.interceptor.DefaultTransactionAttribute#rollbackOn(Throwable) */" />
       <item value="subtract" />
       <item value="Home Inventory Summary Response" />
       <item value="list" />
@@ -8,6 +9,11 @@
     </histories>
   </component>
   <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20211207001021629" />
+      </app-key>
+    </option>
     <option name="ignoreRegExp" value="" />
     <option name="translator" value="fanyi.baidu" />
   </component>
