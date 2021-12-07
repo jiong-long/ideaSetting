@@ -1,0 +1,8 @@
+<application>
+  <component name="TipsStore">
+    <option name="globalFirstStartUp" value="false" />
+    <entry projectPath="$USER_HOME$/dev/idea-workspace/home" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/dev/idea-workspace/sbc-platform" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/dev/idea-workspace/sbc-service-crm" startUpFlag="FIRST" />
+  </component>
+</application>
