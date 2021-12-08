@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="分页查询的游标，首次调用不填" />
       <item value="Base Response" />
       <item value="transaction" />
       <item value="Propagation" />
@@ -16,7 +17,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="16" />
+        <entry key="CHINESE" value="17" />
         <entry key="ENGLISH" value="17" />
       </map>
     </option>
