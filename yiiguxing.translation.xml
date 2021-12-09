@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Encrypt" />
       <item value="侧边栏地址" />
       <item value="/** * Use the default isolation level of the underlying datastore. * All other levels correspond to the JDBC isolation levels. * @see java.sql.Connection */" />
       <item value="/** * Sets the access level of the constructor. By default, generated constructors are {@code public}. * * @return The constructor will be generated with this access modifier. */" />
@@ -28,7 +29,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="26" />
-        <entry key="ENGLISH" value="26" />
+        <entry key="ENGLISH" value="27" />
       </map>
     </option>
   </component>
