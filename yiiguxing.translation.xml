@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <histories>
       <item value="convert" />
+      <item value="conver" />
       <item value="Encrypt" />
       <item value="侧边栏地址" />
       <item value="/** * Use the default isolation level of the underlying datastore. * All other levels correspond to the JDBC isolation levels. * @see java.sql.Connection */" />
@@ -29,8 +30,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="27" />
-        <entry key="ENGLISH" value="28" />
+        <entry key="CHINESE" value="28" />
+        <entry key="ENGLISH" value="29" />
+        <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
   </component>
