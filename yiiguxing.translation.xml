@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Talk is cheap. Show me the code." />
       <item value="/** * Create a new transaction, and suspend the current transaction if one exists. * Analogous to the EJB transaction attribute of the same name. * &lt;p&gt;&lt;b&gt;NOTE:&lt;/b&gt; Actual transaction suspension will not work out-of-the-box * on all transaction managers. This in particular applies to * {@link org.springframework.transaction.jta.JtaTransactionManager}, * which requires the {@code javax.transaction.TransactionManager} to be * made available to it (which is server-specific in standard Java EE). * @see org.springframework.transaction.jta.JtaTransactionManager#setTransactionManager */" />
       <item value="代开发应用" />
       <item value="/** * Any annotations listed here are put on the generated constructor. * The syntax for this feature depends on JDK version (nothing we can do about that; it's to work around javac bugs).&lt;br&gt; * up to JDK7:&lt;br&gt; * {@code @RequiredArgsConstructor(onConstructor=@__({@AnnotationsGoHere}))}&lt;br&gt; * from JDK8:&lt;br&gt; * {@code @RequiredArgsConstructor(onConstructor_={@AnnotationsGohere})} // note the underscore after {@code onConstructor}. * * @return List of annotations to apply to the generated constructor. */" />
@@ -39,8 +40,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="35" />
-        <entry key="ENGLISH" value="36" />
+        <entry key="CHINESE" value="37" />
+        <entry key="ENGLISH" value="38" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
