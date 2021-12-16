@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="factories" />
+      <item value="Only servlet-based web application will match." />
+      <item value="Only reactive-based web application will match." />
       <item value="user_info projects pull_requests issues notes keys hook groups gists enterprises emails" />
       <item value="Detect if the user has created a MultipartResolver but named it incorrectly" />
       <item value="get Candidate Configurations" />
@@ -50,8 +53,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="49" />
-        <entry key="ENGLISH" value="50" />
+        <entry key="CHINESE" value="52" />
+        <entry key="ENGLISH" value="53" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
