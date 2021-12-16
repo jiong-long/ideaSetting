@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="user_info projects pull_requests issues notes keys hook groups gists enterprises emails" />
+      <item value="Detect if the user has created a MultipartResolver but named it incorrectly" />
+      <item value="get Candidate Configurations" />
       <item value="Conditional On Missing Bean" />
       <item value="Conditional" />
-      <item value="Detect if the user has created a MultipartResolver but named it incorrectly" />
       <item value="/** * Return the auto-configuration class names that should be considered. By default * this method will load candidates using {@link SpringFactoriesLoader} with * {@link #getSpringFactoriesLoaderFactoryClass()}. * @param metadata the source metadata * @param attributes the {@link #getAttributes(AnnotationMetadata) annotation * attributes} * @return a list of candidate configurations */" />
       <item value="This class can also be subclassed if a custom variant of" />
       <item value="get Bean Definition Names" />
@@ -48,8 +50,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="46" />
-        <entry key="ENGLISH" value="47" />
+        <entry key="CHINESE" value="49" />
+        <entry key="ENGLISH" value="50" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
