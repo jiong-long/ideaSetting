@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="/** * Return the auto-configuration class names that should be considered. By default * this method will load candidates using {@link SpringFactoriesLoader} with * {@link #getSpringFactoriesLoaderFactoryClass()}. * @param metadata the source metadata * @param attributes the {@link #getAttributes(AnnotationMetadata) annotation * attributes} * @return a list of candidate configurations */" />
+      <item value="This class can also be subclassed if a custom variant of" />
+      <item value="get Bean Definition Names" />
+      <item value="CUSTOM" />
       <item value="Talk is cheap. Show me the code." />
       <item value="scale" />
       <item value="/** * Create a new transaction, and suspend the current transaction if one exists. * Analogous to the EJB transaction attribute of the same name. * &lt;p&gt;&lt;b&gt;NOTE:&lt;/b&gt; Actual transaction suspension will not work out-of-the-box * on all transaction managers. This in particular applies to * {@link org.springframework.transaction.jta.JtaTransactionManager}, * which requires the {@code javax.transaction.TransactionManager} to be * made available to it (which is server-specific in standard Java EE). * @see org.springframework.transaction.jta.JtaTransactionManager#setTransactionManager */" />
@@ -41,8 +45,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="39" />
-        <entry key="ENGLISH" value="40" />
+        <entry key="CHINESE" value="43" />
+        <entry key="ENGLISH" value="44" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
