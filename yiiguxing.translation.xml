@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the pattern to use, not null" />
       <item value="factories" />
       <item value="Only servlet-based web application will match." />
       <item value="Only reactive-based web application will match." />
@@ -53,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="52" />
-        <entry key="ENGLISH" value="53" />
+        <entry key="CHINESE" value="53" />
+        <entry key="ENGLISH" value="54" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
