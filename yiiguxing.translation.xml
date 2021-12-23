@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Add Ed" />
       <item value="optimize this sql to a count sql has exception" />
       <item value="optimize" />
       <item value="at least 3 redeploys/restarts saving you about 0.1 hours." />
@@ -50,12 +51,11 @@
       <item value="PROPAGATION SUPPORTS" />
       <item value="PROPAGATION REQUIRED" />
       <item value="/** * Execute within a nested transaction if a current transaction exists, * behave like {@code REQUIRED} otherwise. There is no analogous feature in EJB. * &lt;p&gt;Note: Actual creation of a nested transaction will only work on specific * transaction managers. Out of the box, this only applies to the JDBC * DataSourceTransactionManager. Some JTA providers might support nested * transactions as well. * @see org.springframework.jdbc.datasource.DataSourceTransactionManager */" />
-      <item value="/** * Support a current transaction, throw an exception if none exists. * Analogous to EJB transaction attribute of the same name. */" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="58" />
-        <entry key="ENGLISH" value="59" />
+        <entry key="CHINESE" value="59" />
+        <entry key="ENGLISH" value="60" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
