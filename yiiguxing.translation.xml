@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="jupiter" />
+      <item value="参数" />
+      <item value="参数化测试" />
       <item value="Repeated Test" />
       <item value="已添加" />
       <item value="add Ed" />
@@ -48,14 +51,11 @@
       <item value="negate" />
       <item value="/** * Returns a {@code BigDecimal} whose value is {@code (-this)}, * and whose scale is {@code this.scale()}. * * @return {@code -this}. */" />
       <item value="分页查询的游标，首次调用不填" />
-      <item value="Base Response" />
-      <item value="transaction" />
-      <item value="Propagation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="61" />
-        <entry key="ENGLISH" value="62" />
+        <entry key="CHINESE" value="63" />
+        <entry key="ENGLISH" value="64" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
