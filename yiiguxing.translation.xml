@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="count times" />
+      <item value="times" />
+      <item value="图表" />
+      <item value="报表" />
       <item value="参数" />
       <item value="para" />
       <item value="params" />
@@ -47,15 +51,11 @@
       <item value="conver" />
       <item value="Encrypt" />
       <item value="侧边栏地址" />
-      <item value="/** * Use the default isolation level of the underlying datastore. * All other levels correspond to the JDBC isolation levels. * @see java.sql.Connection */" />
-      <item value="/** * Sets the access level of the constructor. By default, generated constructors are {@code public}. * * @return The constructor will be generated with this access modifier. */" />
-      <item value="* Any annotations listed here are put on the generated constructor. * The syntax for this feature depends on JDK version (nothing we can do about that; it's to work around javac bugs)." />
-      <item value="* Generates a constructor with required arguments. * Required arguments are final fields and fields with constraints such as {@code @NonNull}." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="68" />
-        <entry key="ENGLISH" value="68" />
+        <entry key="CHINESE" value="71" />
+        <entry key="ENGLISH" value="72" />
         <entry key="PORTUGUESE" value="2" />
       </map>
     </option>
