@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="expect" />
       <item value="minus Months" />
       <item value="count times" />
       <item value="times" />
@@ -50,12 +51,11 @@
       <item value="代开发企业配置解密后为" />
       <item value="convert" />
       <item value="conver" />
-      <item value="Encrypt" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="72" />
-        <entry key="ENGLISH" value="73" />
+        <entry key="CHINESE" value="73" />
+        <entry key="ENGLISH" value="74" />
         <entry key="PORTUGUESE" value="2" />
       </map>
     </option>
