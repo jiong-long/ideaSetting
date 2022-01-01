@@ -1,0 +1,72 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="expect" />
+      <item value="minus Months" />
+      <item value="count times" />
+      <item value="times" />
+      <item value="图表" />
+      <item value="报表" />
+      <item value="参数" />
+      <item value="para" />
+      <item value="params" />
+      <item value="param" />
+      <item value="actuator" />
+      <item value="Endpoint Custom" />
+      <item value="自定义" />
+      <item value="jupiter" />
+      <item value="参数化测试" />
+      <item value="Repeated Test" />
+      <item value="已添加" />
+      <item value="add Ed" />
+      <item value="is Add Ed" />
+      <item value="optimize this sql to a count sql has exception" />
+      <item value="optimize" />
+      <item value="at least 3 redeploys/restarts saving you about 0.1 hours." />
+      <item value="Over the last 1 days JRebel prevented" />
+      <item value="prevented" />
+      <item value="the pattern to use, not null" />
+      <item value="factories" />
+      <item value="Only servlet-based web application will match." />
+      <item value="Only reactive-based web application will match." />
+      <item value="user_info projects pull_requests issues notes keys hook groups gists enterprises emails" />
+      <item value="Detect if the user has created a MultipartResolver but named it incorrectly" />
+      <item value="get Candidate Configurations" />
+      <item value="Conditional On Missing Bean" />
+      <item value="Conditional" />
+      <item value="/** * Return the auto-configuration class names that should be considered. By default * this method will load candidates using {@link SpringFactoriesLoader} with * {@link #getSpringFactoriesLoaderFactoryClass()}. * @param metadata the source metadata * @param attributes the {@link #getAttributes(AnnotationMetadata) annotation * attributes} * @return a list of candidate configurations */" />
+      <item value="This class can also be subclassed if a custom variant of" />
+      <item value="get Bean Definition Names" />
+      <item value="CUSTOM" />
+      <item value="Talk is cheap. Show me the code." />
+      <item value="scale" />
+      <item value="/** * Create a new transaction, and suspend the current transaction if one exists. * Analogous to the EJB transaction attribute of the same name. * &lt;p&gt;&lt;b&gt;NOTE:&lt;/b&gt; Actual transaction suspension will not work out-of-the-box * on all transaction managers. This in particular applies to * {@link org.springframework.transaction.jta.JtaTransactionManager}, * which requires the {@code javax.transaction.TransactionManager} to be * made available to it (which is server-specific in standard Java EE). * @see org.springframework.transaction.jta.JtaTransactionManager#setTransactionManager */" />
+      <item value="代开发应用" />
+      <item value="/** * Any annotations listed here are put on the generated constructor. * The syntax for this feature depends on JDK version (nothing we can do about that; it's to work around javac bugs).&lt;br&gt; * up to JDK7:&lt;br&gt; * {@code @RequiredArgsConstructor(onConstructor=@__({@AnnotationsGoHere}))}&lt;br&gt; * from JDK8:&lt;br&gt; * {@code @RequiredArgsConstructor(onConstructor_={@AnnotationsGohere})} // note the underscore after {@code onConstructor}. * * @return List of annotations to apply to the generated constructor. */" />
+      <item value="* Generates a constructor with required arguments. * Required arguments are final fields and fields with constraints such as {@code @NonNull}. * &lt;p&gt; * Complete documentation is found at &lt;a href=&quot;https://projectlombok.org/features/Constructor&quot;&gt;the project lombok features page for &amp;#64;Constructor&lt;/a&gt;. * &lt;p&gt; * Even though it is not listed, this annotation also has the {@code onConstructor} parameter. See the full documentation for more details." />
+      <item value="Field injection is not recommended" />
+      <item value="wired" />
+      <item value="Autowired" />
+      <item value="on Constructor" />
+      <item value="代开发企业配置解密后为" />
+      <item value="convert" />
+      <item value="conver" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="73" />
+        <entry key="ENGLISH" value="74" />
+        <entry key="PORTUGUESE" value="2" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20211207001021629" />
+      </app-key>
+    </option>
+    <option name="ignoreRegExp" value="" />
+    <option name="translator" value="fanyi.baidu" />
+  </component>
+</application>

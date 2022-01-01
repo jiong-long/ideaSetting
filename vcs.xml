@@ -334,6 +334,14 @@
           <option name="url" value="http://git.dev.qianmi.com/shu-mou/sm-crm" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.dev.qianmi.com/shu-mou/sm_sql" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.dev.qianmi.com/commons/id-generator" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/dev/idea-workspace" />
