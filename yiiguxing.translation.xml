@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Add the given singleton factory for building the specified singleton * if necessary." />
+      <item value="Cache of singleton objects: bean name to bean instance." />
+      <item value="singleton" />
+      <item value="Cache of singleton factories: bean name to ObjectFactory." />
+      <item value="Cache of early singleton objects: bean name to bean instance." />
+      <item value="Quick check for existing instance without full singleton lock" />
       <item value="divide" />
       <item value="完成" />
       <item value="expect" />
@@ -45,17 +51,11 @@
       <item value="/** * Create a new transaction, and suspend the current transaction if one exists. * Analogous to the EJB transaction attribute of the same name. * &lt;p&gt;&lt;b&gt;NOTE:&lt;/b&gt; Actual transaction suspension will not work out-of-the-box * on all transaction managers. This in particular applies to * {@link org.springframework.transaction.jta.JtaTransactionManager}, * which requires the {@code javax.transaction.TransactionManager} to be * made available to it (which is server-specific in standard Java EE). * @see org.springframework.transaction.jta.JtaTransactionManager#setTransactionManager */" />
       <item value="代开发应用" />
       <item value="/** * Any annotations listed here are put on the generated constructor. * The syntax for this feature depends on JDK version (nothing we can do about that; it's to work around javac bugs).&lt;br&gt; * up to JDK7:&lt;br&gt; * {@code @RequiredArgsConstructor(onConstructor=@__({@AnnotationsGoHere}))}&lt;br&gt; * from JDK8:&lt;br&gt; * {@code @RequiredArgsConstructor(onConstructor_={@AnnotationsGohere})} // note the underscore after {@code onConstructor}. * * @return List of annotations to apply to the generated constructor. */" />
-      <item value="* Generates a constructor with required arguments. * Required arguments are final fields and fields with constraints such as {@code @NonNull}. * &lt;p&gt; * Complete documentation is found at &lt;a href=&quot;https://projectlombok.org/features/Constructor&quot;&gt;the project lombok features page for &amp;#64;Constructor&lt;/a&gt;. * &lt;p&gt; * Even though it is not listed, this annotation also has the {@code onConstructor} parameter. See the full documentation for more details." />
-      <item value="Field injection is not recommended" />
-      <item value="wired" />
-      <item value="Autowired" />
-      <item value="on Constructor" />
-      <item value="代开发企业配置解密后为" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="74" />
-        <entry key="ENGLISH" value="75" />
+        <entry key="CHINESE" value="82" />
+        <entry key="ENGLISH" value="83" />
         <entry key="PORTUGUESE" value="2" />
       </map>
     </option>
