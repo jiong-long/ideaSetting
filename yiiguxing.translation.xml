@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Return whether the specified singleton bean is currently in creation" />
       <item value="condition" />
       <item value="if this lock should use a fair ordering policy" />
       <item value="Add the given singleton factory for building the specified singleton * if necessary." />
@@ -50,12 +51,11 @@
       <item value="CUSTOM" />
       <item value="Talk is cheap. Show me the code." />
       <item value="scale" />
-      <item value="/** * Create a new transaction, and suspend the current transaction if one exists. * Analogous to the EJB transaction attribute of the same name. * &lt;p&gt;&lt;b&gt;NOTE:&lt;/b&gt; Actual transaction suspension will not work out-of-the-box * on all transaction managers. This in particular applies to * {@link org.springframework.transaction.jta.JtaTransactionManager}, * which requires the {@code javax.transaction.TransactionManager} to be * made available to it (which is server-specific in standard Java EE). * @see org.springframework.transaction.jta.JtaTransactionManager#setTransactionManager */" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="84" />
-        <entry key="ENGLISH" value="85" />
+        <entry key="CHINESE" value="85" />
+        <entry key="ENGLISH" value="86" />
         <entry key="PORTUGUESE" value="2" />
       </map>
     </option>
