@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the factory to use when the executor * creates a new thread" />
+      <item value="the queue to use for holding tasks before they are * executed. This queue will hold only the {@code Runnable} * tasks submitted by the {@code execute} method." />
+      <item value="when the number of threads is greater than * the core, this is the maximum time that excess idle threads * will wait for new tasks before terminating." />
+      <item value="the number of threads to keep in the pool" />
+      <item value="the number of threads to keep in the pool, even * if they are idle, unless {@code allowCoreThreadTimeOut} is set" />
       <item value="MILLISECONDS" />
       <item value="Return whether the specified singleton bean is currently in creation" />
       <item value="condition" />
@@ -46,16 +51,11 @@
       <item value="get Candidate Configurations" />
       <item value="Conditional On Missing Bean" />
       <item value="Conditional" />
-      <item value="/** * Return the auto-configuration class names that should be considered. By default * this method will load candidates using {@link SpringFactoriesLoader} with * {@link #getSpringFactoriesLoaderFactoryClass()}. * @param metadata the source metadata * @param attributes the {@link #getAttributes(AnnotationMetadata) annotation * attributes} * @return a list of candidate configurations */" />
-      <item value="This class can also be subclassed if a custom variant of" />
-      <item value="get Bean Definition Names" />
-      <item value="CUSTOM" />
-      <item value="Talk is cheap. Show me the code." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="86" />
-        <entry key="ENGLISH" value="87" />
+        <entry key="CHINESE" value="91" />
+        <entry key="ENGLISH" value="92" />
         <entry key="PORTUGUESE" value="2" />
       </map>
     </option>
