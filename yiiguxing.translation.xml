@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="率" />
       <item value="the factory to use when the executor * creates a new thread" />
       <item value="the queue to use for holding tasks before they are * executed. This queue will hold only the {@code Runnable} * tasks submitted by the {@code execute} method." />
       <item value="when the number of threads is greater than * the core, this is the maximum time that excess idle threads * will wait for new tasks before terminating." />
@@ -50,11 +51,10 @@
       <item value="Detect if the user has created a MultipartResolver but named it incorrectly" />
       <item value="get Candidate Configurations" />
       <item value="Conditional On Missing Bean" />
-      <item value="Conditional" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="91" />
+        <entry key="CHINESE" value="92" />
         <entry key="ENGLISH" value="92" />
         <entry key="PORTUGUESE" value="2" />
       </map>
