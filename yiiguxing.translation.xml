@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="IMMEDIATE" />
+      <item value="DELAY" />
+      <item value="立即" />
+      <item value="立即执行" />
+      <item value="常量" />
       <item value="率" />
       <item value="the factory to use when the executor * creates a new thread" />
       <item value="the queue to use for holding tasks before they are * executed. This queue will hold only the {@code Runnable} * tasks submitted by the {@code execute} method." />
@@ -46,16 +51,11 @@
       <item value="the pattern to use, not null" />
       <item value="factories" />
       <item value="Only servlet-based web application will match." />
-      <item value="Only reactive-based web application will match." />
-      <item value="user_info projects pull_requests issues notes keys hook groups gists enterprises emails" />
-      <item value="Detect if the user has created a MultipartResolver but named it incorrectly" />
-      <item value="get Candidate Configurations" />
-      <item value="Conditional On Missing Bean" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="92" />
-        <entry key="ENGLISH" value="92" />
+        <entry key="CHINESE" value="96" />
+        <entry key="ENGLISH" value="97" />
         <entry key="PORTUGUESE" value="2" />
       </map>
     </option>
