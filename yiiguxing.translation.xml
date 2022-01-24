@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="生命周期" />
       <item value="cannot Operate" />
       <item value="cannot Operate Auth" />
       <item value="have Operate Auth" />
@@ -50,11 +51,10 @@
       <item value="optimize this sql to a count sql has exception" />
       <item value="optimize" />
       <item value="at least 3 redeploys/restarts saving you about 0.1 hours." />
-      <item value="Over the last 1 days JRebel prevented" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="99" />
+        <entry key="CHINESE" value="100" />
         <entry key="ENGLISH" value="100" />
         <entry key="PORTUGUESE" value="2" />
       </map>
