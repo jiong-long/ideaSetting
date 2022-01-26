@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Count Down Latch" />
       <item value="生命周期" />
       <item value="cannot Operate" />
       <item value="cannot Operate Auth" />
@@ -50,12 +51,11 @@
       <item value="is Add Ed" />
       <item value="optimize this sql to a count sql has exception" />
       <item value="optimize" />
-      <item value="at least 3 redeploys/restarts saving you about 0.1 hours." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="100" />
-        <entry key="ENGLISH" value="100" />
+        <entry key="ENGLISH" value="101" />
         <entry key="PORTUGUESE" value="2" />
       </map>
     </option>
