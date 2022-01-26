@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* A hint to the scheduler that the current thread is willing to yield * its current use of a processor. The scheduler is free to ignore this * hint." />
+      <item value="yield" />
       <item value="Count Down Latch" />
       <item value="生命周期" />
       <item value="cannot Operate" />
@@ -49,13 +51,11 @@
       <item value="已添加" />
       <item value="add Ed" />
       <item value="is Add Ed" />
-      <item value="optimize this sql to a count sql has exception" />
-      <item value="optimize" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="100" />
-        <entry key="ENGLISH" value="101" />
+        <entry key="CHINESE" value="102" />
+        <entry key="ENGLISH" value="103" />
         <entry key="PORTUGUESE" value="2" />
       </map>
     </option>
