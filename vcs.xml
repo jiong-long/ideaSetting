@@ -346,6 +346,10 @@
           <option name="url" value="http://git.dev.qianmi.com/OF1540/function-action" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.dev.qianmi.com/shu-mou/sm-empower.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/dev/idea-workspace" />
