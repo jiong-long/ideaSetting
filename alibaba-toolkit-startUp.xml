@@ -2,6 +2,7 @@
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
     <entry projectPath="$USER_HOME$/dev/idea-workspace/dubbo-consumer" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/dev/idea-workspace/dubbo-provider" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/dev/idea-workspace/function-action" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/dev/idea-workspace/home" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/dev/idea-workspace/id-generator" startUpFlag="FIRST" />
