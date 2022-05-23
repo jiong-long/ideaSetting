@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="up-to-date" />
+      <item value="All files are up-to-date" />
+      <item value="ms" />
       <item value="exclusion" />
       <item value="The field annotated with {@code @Default} must have an initializing expression; that expression is taken as the default to be used if not explicitly set during building." />
       <item value="The field annotated with {@code @Default} must have an initializing expression; that expression is taken as the default to be used if not explicitly set during building" />
@@ -48,14 +51,11 @@
       <item value="if this lock should use a fair ordering policy" />
       <item value="Add the given singleton factory for building the specified singleton * if necessary." />
       <item value="Cache of singleton objects: bean name to bean instance." />
-      <item value="singleton" />
-      <item value="Cache of singleton factories: bean name to ObjectFactory." />
-      <item value="Cache of early singleton objects: bean name to bean instance." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="127" />
-        <entry key="ENGLISH" value="128" />
+        <entry key="CHINESE" value="130" />
+        <entry key="ENGLISH" value="131" />
         <entry key="PORTUGUESE" value="2" />
       </map>
     </option>
