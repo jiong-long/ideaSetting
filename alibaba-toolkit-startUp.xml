@@ -1,17 +1,44 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectPath="$USER_HOME$/dev/idea-workspace/acct-micro-gateway" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/dev/idea-workspace/acct-micro-payment" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/dev/idea-workspace/admin-acct-api" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/dev/idea-workspace/admin-api" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/dev/idea-workspace/admin-cboss-api" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/dev/idea-workspace/admin-crm-api" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/dev/idea-workspace/admin-d2c-api" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/dev/idea-workspace/admin-micro-product" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/dev/idea-workspace/admin-qm-boss" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/dev/idea-workspace/cloudshop-api" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/dev/idea-workspace/d2c-retail-plugin" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/dev/idea-workspace/d2p-admin-bff" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/dev/idea-workspace/dubbo-consumer" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/dev/idea-workspace/dubbo-provider" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/dev/idea-workspace/function-action" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/dev/idea-workspace/home" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/dev/idea-workspace/id-generator" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/dev/idea-workspace/oms" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/dev/idea-workspace/pc-admin-bff" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/dev/idea-workspace/pc-admin-task" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/dev/idea-workspace/pc-micro-item" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/dev/idea-workspace/pc-micro-stock" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/dev/idea-workspace/print-api" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/dev/idea-workspace/product-center-new" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/dev/idea-workspace/qianmi-batch-io" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/dev/idea-workspace/qm-oms-api" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/dev/idea-workspace/qm-user-center" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/dev/idea-workspace/qmboss" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/dev/idea-workspace/sbc-platform" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/dev/idea-workspace/sbc-service-crm" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/dev/idea-workspace/sbc-service-empower" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/dev/idea-workspace/sbc-service-setting" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/dev/idea-workspace/shop" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/dev/idea-workspace/sm-crm-gateway" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/dev/idea-workspace/sm-crm-service" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/dev/idea-workspace/sm-empower" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/dev/idea-workspace/sm_sql" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/dev/idea-workspace/wms" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/dev/share" startUpFlag="FIRST" />
   </component>
 </application>

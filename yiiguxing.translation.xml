@@ -1,61 +1,61 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="expect" />
-      <item value="minus Months" />
-      <item value="count times" />
-      <item value="times" />
-      <item value="图表" />
-      <item value="报表" />
-      <item value="参数" />
-      <item value="para" />
-      <item value="params" />
-      <item value="param" />
-      <item value="actuator" />
-      <item value="Endpoint Custom" />
-      <item value="自定义" />
-      <item value="jupiter" />
-      <item value="参数化测试" />
-      <item value="Repeated Test" />
-      <item value="已添加" />
-      <item value="add Ed" />
-      <item value="is Add Ed" />
-      <item value="optimize this sql to a count sql has exception" />
-      <item value="optimize" />
-      <item value="at least 3 redeploys/restarts saving you about 0.1 hours." />
-      <item value="Over the last 1 days JRebel prevented" />
-      <item value="prevented" />
-      <item value="the pattern to use, not null" />
-      <item value="factories" />
-      <item value="Only servlet-based web application will match." />
-      <item value="Only reactive-based web application will match." />
-      <item value="user_info projects pull_requests issues notes keys hook groups gists enterprises emails" />
-      <item value="Detect if the user has created a MultipartResolver but named it incorrectly" />
-      <item value="get Candidate Configurations" />
-      <item value="Conditional On Missing Bean" />
-      <item value="Conditional" />
-      <item value="/** * Return the auto-configuration class names that should be considered. By default * this method will load candidates using {@link SpringFactoriesLoader} with * {@link #getSpringFactoriesLoaderFactoryClass()}. * @param metadata the source metadata * @param attributes the {@link #getAttributes(AnnotationMetadata) annotation * attributes} * @return a list of candidate configurations */" />
-      <item value="This class can also be subclassed if a custom variant of" />
-      <item value="get Bean Definition Names" />
-      <item value="CUSTOM" />
-      <item value="Talk is cheap. Show me the code." />
-      <item value="scale" />
-      <item value="/** * Create a new transaction, and suspend the current transaction if one exists. * Analogous to the EJB transaction attribute of the same name. * &lt;p&gt;&lt;b&gt;NOTE:&lt;/b&gt; Actual transaction suspension will not work out-of-the-box * on all transaction managers. This in particular applies to * {@link org.springframework.transaction.jta.JtaTransactionManager}, * which requires the {@code javax.transaction.TransactionManager} to be * made available to it (which is server-specific in standard Java EE). * @see org.springframework.transaction.jta.JtaTransactionManager#setTransactionManager */" />
-      <item value="代开发应用" />
-      <item value="/** * Any annotations listed here are put on the generated constructor. * The syntax for this feature depends on JDK version (nothing we can do about that; it's to work around javac bugs).&lt;br&gt; * up to JDK7:&lt;br&gt; * {@code @RequiredArgsConstructor(onConstructor=@__({@AnnotationsGoHere}))}&lt;br&gt; * from JDK8:&lt;br&gt; * {@code @RequiredArgsConstructor(onConstructor_={@AnnotationsGohere})} // note the underscore after {@code onConstructor}. * * @return List of annotations to apply to the generated constructor. */" />
-      <item value="* Generates a constructor with required arguments. * Required arguments are final fields and fields with constraints such as {@code @NonNull}. * &lt;p&gt; * Complete documentation is found at &lt;a href=&quot;https://projectlombok.org/features/Constructor&quot;&gt;the project lombok features page for &amp;#64;Constructor&lt;/a&gt;. * &lt;p&gt; * Even though it is not listed, this annotation also has the {@code onConstructor} parameter. See the full documentation for more details." />
-      <item value="Field injection is not recommended" />
-      <item value="wired" />
-      <item value="Autowired" />
-      <item value="on Constructor" />
-      <item value="代开发企业配置解密后为" />
-      <item value="convert" />
-      <item value="conver" />
+      <item value="exclusive" />
+      <item value="EXCLUSIVE" />
+      <item value="statement" />
+      <item value="collapsed" />
+      <item value="exclusive Logo Self" />
+      <item value="专属" />
+      <item value="state" />
+      <item value="statue" />
+      <item value="non-private to simplify nested class access" />
+      <item value="is Present" />
+      <item value="Method call expected" />
+      <item value="negative Stock" />
+      <item value="retail" />
+      <item value="up-to-date" />
+      <item value="All files are up-to-date" />
+      <item value="ms" />
+      <item value="exclusion" />
+      <item value="The field annotated with {@code @Default} must have an initializing expression; that expression is taken as the default to be used if not explicitly set during building." />
+      <item value="The field annotated with {@code @Default} must have an initializing expression; that expression is taken as the default to be used if not explicitly set during building" />
+      <item value="Expire" />
+      <item value="RETREAT" />
+      <item value="INVITATION" />
+      <item value="Distance Sort" />
+      <item value="Function Expand" />
+      <item value="Judge" />
+      <item value="is Optional" />
+      <item value="true if we are declaring a durable exchange (the exchange will survive a server restart)" />
+      <item value="true if the 'immediate' flag is to be" />
+      <item value="terms Query" />
+      <item value="fuzzy Query" />
+      <item value="peek" />
+      <item value="Transient" />
+      <item value="reversed" />
+      <item value="effectively" />
+      <item value="the ordinal of this enumeration constant" />
+      <item value="ordinal" />
+      <item value="常量" />
+      <item value="activity fission" />
+      <item value="DEFAULT LOAD FACTOR" />
+      <item value="yield" />
+      <item value="* A hint to the scheduler that the current thread is willing to yield * its current use of a processor. The scheduler is free to ignore this * hint." />
+      <item value="Count Down Latch" />
+      <item value="生命周期" />
+      <item value="cannot Operate" />
+      <item value="cannot Operate Auth" />
+      <item value="have Operate Auth" />
+      <item value="已执行" />
+      <item value="IMMEDIATE" />
+      <item value="DELAY" />
+      <item value="立即" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="73" />
-        <entry key="ENGLISH" value="74" />
+        <entry key="CHINESE" value="145" />
+        <entry key="ENGLISH" value="146" />
         <entry key="PORTUGUESE" value="2" />
       </map>
     </option>
