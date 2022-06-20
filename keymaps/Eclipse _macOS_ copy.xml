@@ -30,8 +30,5 @@
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
   <action id="ShowContent" />
-  <action id="TypeHierarchy.Class">
-    <keyboard-shortcut first-keystroke="ctrl h" />
-  </action>
   <action id="Vcs.MoveChangedLinesToChangelist" />
 </keymap>
