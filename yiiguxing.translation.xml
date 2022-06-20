@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="division" />
       <item value="* Checks and updates status for a node that failed to acquire. * Returns true if thread should block. This is the main signal * control in all acquire loops. Requires that pred == node.prev." />
       <item value="should Park After Failed Acquire" />
       <item value="/* * This node has already set status asking a release * to signal it, so it can safely park. */" />
@@ -50,12 +51,11 @@
       <item value="cannot Operate" />
       <item value="cannot Operate Auth" />
       <item value="have Operate Auth" />
-      <item value="已执行" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="149" />
-        <entry key="ENGLISH" value="150" />
+        <entry key="CHINESE" value="150" />
+        <entry key="ENGLISH" value="151" />
         <entry key="PORTUGUESE" value="2" />
       </map>
     </option>
