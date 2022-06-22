@@ -1,8 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Marker to indicate a node is waiting in exclusive mode" />
+      <item value="/* * If status is negative (i.e., possibly needing signal) try * to clear in anticipation of signalling. It is OK if this * fails or if status is changed by waiting thread. */" />
+      <item value="* The field is initialized to 0 for normal sync nodes, and * CONDITION for condition nodes. It is modified using CAS * (or when possible, unconditional volatile writes)." />
       <item value="exclusive" />
+      <item value="Marker to indicate a node is waiting in exclusive mode" />
       <item value="EXCLUSIVE" />
       <item value="statement" />
       <item value="collapsed" />
@@ -49,13 +51,11 @@
       <item value="cannot Operate Auth" />
       <item value="have Operate Auth" />
       <item value="已执行" />
-      <item value="IMMEDIATE" />
-      <item value="DELAY" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="146" />
-        <entry key="ENGLISH" value="147" />
+        <entry key="CHINESE" value="151" />
+        <entry key="ENGLISH" value="152" />
         <entry key="PORTUGUESE" value="2" />
       </map>
     </option>
