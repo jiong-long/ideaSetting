@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="/** * Performs cleanup and bookkeeping for a dying worker. Called * only from worker threads. Unless completedAbruptly is set, * assumes that workerCount has already been adjusted to account * for exit. This method removes thread from worker set, and * possibly terminates the pool or replaces the worker if either * it exited due to user task exception or if fewer than * corePoolSize workers are running or queue is non-empty but * there are no workers. * * @param w the worker * @param completedAbruptly if the worker died due to user exception */" />
+      <item value="process Worker Exit" />
+      <item value="Did the last poll() time out?" />
       <item value="inhibit interrupts until runWorker" />
       <item value="command" />
       <item value="unpark" />
@@ -48,14 +51,11 @@
       <item value="Transient" />
       <item value="reversed" />
       <item value="effectively" />
-      <item value="the ordinal of this enumeration constant" />
-      <item value="ordinal" />
-      <item value="常量" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="158" />
-        <entry key="ENGLISH" value="159" />
+        <entry key="CHINESE" value="161" />
+        <entry key="ENGLISH" value="162" />
         <entry key="PORTUGUESE" value="2" />
       </map>
     </option>
