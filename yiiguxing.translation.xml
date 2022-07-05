@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Actually invoke the handler." />
+      <item value="Process last-modified header, if supported by the handler." />
+      <item value="Determine handler adapter for the current request." />
+      <item value="Determine handler for the current request." />
+      <item value="handler" />
+      <item value="Determine" />
       <item value="Component" />
       <item value="Strategy interface to handle the value returned from the invocation of a * handler method ." />
       <item value="ceil" />
@@ -45,17 +51,11 @@
       <item value="Distance Sort" />
       <item value="Function Expand" />
       <item value="Judge" />
-      <item value="is Optional" />
-      <item value="true if we are declaring a durable exchange (the exchange will survive a server restart)" />
-      <item value="true if the 'immediate' flag is to be" />
-      <item value="terms Query" />
-      <item value="fuzzy Query" />
-      <item value="peek" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="165" />
-        <entry key="ENGLISH" value="166" />
+        <entry key="CHINESE" value="176" />
+        <entry key="ENGLISH" value="177" />
         <entry key="PORTUGUESE" value="2" />
       </map>
     </option>
