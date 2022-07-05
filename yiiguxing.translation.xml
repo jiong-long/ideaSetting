@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Async" />
       <item value="Determine handler adapter for the current request." />
       <item value="Determine handler for the current request." />
       <item value="Actually invoke the handler." />
@@ -50,12 +51,11 @@
       <item value="INVITATION" />
       <item value="Distance Sort" />
       <item value="Function Expand" />
-      <item value="Judge" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="178" />
-        <entry key="ENGLISH" value="179" />
+        <entry key="CHINESE" value="179" />
+        <entry key="ENGLISH" value="180" />
         <entry key="PORTUGUESE" value="2" />
       </map>
     </option>
