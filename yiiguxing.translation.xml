@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Upgrade" />
       <item value="get Candidate Bean Names" />
       <item value="Map of singleton-only bean names, keyed by dependency type." />
       <item value="Map of singleton and non-singleton bean names, keyed by dependency type." />
@@ -50,12 +51,11 @@
       <item value="The field annotated with {@code @Default} must have an initializing expression; that expression is taken as the default to be used if not explicitly set during building" />
       <item value="Expire" />
       <item value="RETREAT" />
-      <item value="INVITATION" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="176" />
-        <entry key="ENGLISH" value="177" />
+        <entry key="CHINESE" value="177" />
+        <entry key="ENGLISH" value="178" />
         <entry key="PORTUGUESE" value="2" />
       </map>
     </option>
