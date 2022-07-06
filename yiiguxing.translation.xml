@@ -1,16 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Async" />
-      <item value="Determine handler adapter for the current request." />
-      <item value="Determine handler for the current request." />
-      <item value="Actually invoke the handler." />
-      <item value="Process last-modified header, if supported by the handler." />
-      <item value="handler" />
-      <item value="Determine" />
-      <item value="Component" />
-      <item value="Strategy interface to handle the value returned from the invocation of a * handler method ." />
-      <item value="ceil" />
+      <item value="internal" />
+      <item value="Upgrade" />
+      <item value="get Candidate Bean Names" />
+      <item value="Map of singleton-only bean names, keyed by dependency type." />
+      <item value="Map of singleton and non-singleton bean names, keyed by dependency type." />
+      <item value="Detects handler methods at initialization." />
+      <item value="Determine the names of candidate beans in the application context." />
+      <item value="Endpoint" />
+      <item value="Path must not contain wildcards" />
+      <item value="wildcards" />
+      <item value="omitted" />
+      <item value="The bean name for a DispatcherServlet that will be mapped to the root URL &quot;/&quot;." />
+      <item value="Solution" />
+      <item value="* Creates a new random number generator using a single {@code long} seed. * The seed is the initial value of the internal state of the pseudorandom * number generator which is maintained by method {@link #next}." />
       <item value="Enhancer" />
       <item value="is Terminated" />
       <item value="TERMINATED" />
@@ -47,15 +51,11 @@
       <item value="The field annotated with {@code @Default} must have an initializing expression; that expression is taken as the default to be used if not explicitly set during building." />
       <item value="The field annotated with {@code @Default} must have an initializing expression; that expression is taken as the default to be used if not explicitly set during building" />
       <item value="Expire" />
-      <item value="RETREAT" />
-      <item value="INVITATION" />
-      <item value="Distance Sort" />
-      <item value="Function Expand" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="179" />
-        <entry key="ENGLISH" value="180" />
+        <entry key="CHINESE" value="178" />
+        <entry key="ENGLISH" value="179" />
         <entry key="PORTUGUESE" value="2" />
       </map>
     </option>
