@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Queue" />
+      <item value="Array Deque" />
+      <item value="Deque" />
+      <item value="* &lt;p&gt;A more complete and consistent set of LIFO stack operations is * provided by the {@link Deque} interface and its implementations, which * should be used in preference to this class. For example:" />
       <item value="internal" />
       <item value="Upgrade" />
       <item value="get Candidate Bean Names" />
@@ -47,16 +51,12 @@
       <item value="up-to-date" />
       <item value="All files are up-to-date" />
       <item value="ms" />
-      <item value="exclusion" />
-      <item value="The field annotated with {@code @Default} must have an initializing expression; that expression is taken as the default to be used if not explicitly set during building." />
-      <item value="The field annotated with {@code @Default} must have an initializing expression; that expression is taken as the default to be used if not explicitly set during building" />
-      <item value="Expire" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="178" />
-        <entry key="ENGLISH" value="179" />
-        <entry key="PORTUGUESE" value="2" />
+        <entry key="CHINESE" value="180" />
+        <entry key="ENGLISH" value="181" />
+        <entry key="PORTUGUESE" value="4" />
       </map>
     </option>
   </component>
