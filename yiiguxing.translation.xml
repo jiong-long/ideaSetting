@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="corresponding" />
+      <item value="Register bean processors that intercept bean creation." />
       <item value="圈" />
       <item value="循环" />
       <item value="Assertion Error" />
@@ -49,13 +51,11 @@
       <item value="is Present" />
       <item value="Method call expected" />
       <item value="negative Stock" />
-      <item value="retail" />
-      <item value="up-to-date" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="183" />
-        <entry key="ENGLISH" value="183" />
+        <entry key="CHINESE" value="184" />
+        <entry key="ENGLISH" value="185" />
         <entry key="PORTUGUESE" value="2" />
       </map>
     </option>
