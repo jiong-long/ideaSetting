@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="股票" />
+      <item value="shares" />
       <item value="reduce" />
       <item value="corresponding" />
       <item value="Register bean processors that intercept bean creation." />
@@ -49,13 +51,11 @@
       <item value="state" />
       <item value="statue" />
       <item value="non-private to simplify nested class access" />
-      <item value="is Present" />
-      <item value="Method call expected" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="185" />
-        <entry key="ENGLISH" value="186" />
+        <entry key="CHINESE" value="187" />
+        <entry key="ENGLISH" value="187" />
         <entry key="PORTUGUESE" value="2" />
       </map>
     </option>
