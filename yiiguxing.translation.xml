@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="commission" />
+      <item value="seniorguide" />
       <item value="股票" />
       <item value="shares" />
       <item value="reduce" />
@@ -49,14 +51,13 @@
       <item value="exclusive Logo Self" />
       <item value="专属" />
       <item value="state" />
-      <item value="statue" />
-      <item value="non-private to simplify nested class access" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="187" />
-        <entry key="ENGLISH" value="187" />
+        <entry key="ENGLISH" value="188" />
         <entry key="PORTUGUESE" value="2" />
+        <entry key="ITALIAN" value="1" />
       </map>
     </option>
   </component>
