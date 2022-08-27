@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="重点关注" />
+      <item value="关注" />
+      <item value="focus" />
       <item value="yield" />
       <item value="收益率" />
       <item value="收益" />
@@ -48,14 +51,11 @@
       <item value="SHUTDOWN" />
       <item value="COUNT MASK" />
       <item value="Executors" />
-      <item value="if there is a queued thread preceding the * current thread, and {@code false} if the current thread * is at the head of the queue or the queue is empty" />
-      <item value="The current owner of exclusive mode synchronization." />
-      <item value="/* * Thread to unpark is held in successor, which is normally * just the next node. But if cancelled or apparently null, * traverse backwards from tail to find the actual * non-cancelled successor. */" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="198" />
-        <entry key="ENGLISH" value="199" />
+        <entry key="CHINESE" value="201" />
+        <entry key="ENGLISH" value="201" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="ITALIAN" value="1" />
       </map>
