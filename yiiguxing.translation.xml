@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="盯盘" />
+      <item value="盯" />
       <item value="deduct" />
       <item value="multiply" />
       <item value="buy Avg" />
@@ -49,13 +51,11 @@
       <item value="if there is a queued thread preceding the * current thread, and {@code false} if the current thread * is at the head of the queue or the queue is empty" />
       <item value="The current owner of exclusive mode synchronization." />
       <item value="/* * Thread to unpark is held in successor, which is normally * just the next node. But if cancelled or apparently null, * traverse backwards from tail to find the actual * non-cancelled successor. */" />
-      <item value="deserialize" />
-      <item value="* Method that deserializers should call if they encounter a String value * that cannot be converted to target property type, in cases where some * String values could be acceptable (either with different settings, * or different value)." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="198" />
-        <entry key="ENGLISH" value="199" />
+        <entry key="CHINESE" value="200" />
+        <entry key="ENGLISH" value="200" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="ITALIAN" value="1" />
       </map>
