@@ -1,17 +1,22 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="开盘" />
-      <item value="盯盘" />
-      <item value="盯" />
-      <item value="deduct" />
-      <item value="multiply" />
+      <item value="Add change notes here" />
+      <item value="Constructor" />
+      <item value="suggestion" />
+      <item value="重点关注" />
+      <item value="关注" />
+      <item value="focus" />
+      <item value="yield" />
+      <item value="收益率" />
+      <item value="收益" />
       <item value="buy Avg" />
       <item value="Value serializer to use, if it can be statically determined" />
       <item value="成功率" />
       <item value="汇总" />
       <item value="统计" />
       <item value="subtract" />
+      <item value="multiply" />
       <item value="Subscribe" />
       <item value="Condition Outcome" />
       <item value="Outcome" />
@@ -46,16 +51,11 @@
       <item value="is Terminated" />
       <item value="TERMINATED" />
       <item value="TIDYING" />
-      <item value="SHUTDOWN" />
-      <item value="COUNT MASK" />
-      <item value="Executors" />
-      <item value="if there is a queued thread preceding the * current thread, and {@code false} if the current thread * is at the head of the queue or the queue is empty" />
-      <item value="The current owner of exclusive mode synchronization." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="201" />
-        <entry key="ENGLISH" value="201" />
+        <entry key="CHINESE" value="203" />
+        <entry key="ENGLISH" value="204" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="ITALIAN" value="1" />
       </map>
