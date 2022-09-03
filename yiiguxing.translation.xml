@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="secondary" />
       <item value="Add change notes here" />
       <item value="Constructor" />
       <item value="suggestion" />
@@ -50,12 +51,11 @@
       <item value="Enhancer" />
       <item value="is Terminated" />
       <item value="TERMINATED" />
-      <item value="TIDYING" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="203" />
-        <entry key="ENGLISH" value="204" />
+        <entry key="CHINESE" value="204" />
+        <entry key="ENGLISH" value="205" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="ITALIAN" value="1" />
       </map>
