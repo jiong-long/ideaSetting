@@ -1,6 +1,7 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectPath="$USER_HOME$/dev/idea-workspace/FirstPlugin" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/dev/idea-workspace/acct-micro-gateway" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/dev/idea-workspace/acct-micro-payment" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/dev/idea-workspace/admin-acct-api" startUpFlag="FIRST" />
