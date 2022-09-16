@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="手续费" />
+      <item value="费率" />
       <item value="印花税" />
       <item value="过户" />
-      <item value="手续费" />
       <item value="calculation" />
       <item value="计算" />
       <item value="Malformed URL Exception" />
@@ -50,12 +51,11 @@
       <item value="Map of singleton and non-singleton bean names, keyed by dependency type." />
       <item value="Detects handler methods at initialization." />
       <item value="Determine the names of candidate beans in the application context." />
-      <item value="Endpoint" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="214" />
-        <entry key="ENGLISH" value="214" />
+        <entry key="CHINESE" value="216" />
+        <entry key="ENGLISH" value="216" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="ITALIAN" value="1" />
       </map>
