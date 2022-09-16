@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="印花税" />
+      <item value="过户" />
+      <item value="手续费" />
+      <item value="calculation" />
+      <item value="计算" />
       <item value="Malformed URL Exception" />
       <item value="* Compares this {@code BigDecimal} with the specified * {@code Object} for equality. Unlike {@link * #compareTo(BigDecimal) compareTo}, this method considers two * {@code BigDecimal} objects equal only if they are equal in * value and scale (thus 2.0 is not equal to 2.00 when compared by * this method)." />
       <item value="subtract" />
@@ -46,16 +51,11 @@
       <item value="Detects handler methods at initialization." />
       <item value="Determine the names of candidate beans in the application context." />
       <item value="Endpoint" />
-      <item value="Path must not contain wildcards" />
-      <item value="wildcards" />
-      <item value="omitted" />
-      <item value="The bean name for a DispatcherServlet that will be mapped to the root URL &quot;/&quot;." />
-      <item value="Solution" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="209" />
-        <entry key="ENGLISH" value="210" />
+        <entry key="CHINESE" value="214" />
+        <entry key="ENGLISH" value="214" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="ITALIAN" value="1" />
       </map>
