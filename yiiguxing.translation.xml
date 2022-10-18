@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="RANDOM PORT" />
       <item value="实际" />
       <item value="手续费" />
       <item value="费率" />
@@ -50,12 +51,11 @@
       <item value="get Candidate Bean Names" />
       <item value="Map of singleton-only bean names, keyed by dependency type." />
       <item value="Map of singleton and non-singleton bean names, keyed by dependency type." />
-      <item value="Detects handler methods at initialization." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="217" />
-        <entry key="ENGLISH" value="217" />
+        <entry key="ENGLISH" value="218" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="ITALIAN" value="1" />
       </map>
