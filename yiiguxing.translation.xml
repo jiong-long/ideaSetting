@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Instantiation" />
       <item value="disable" />
       <item value="RANDOM PORT" />
       <item value="实际" />
@@ -50,12 +51,11 @@
       <item value="internal" />
       <item value="Upgrade" />
       <item value="get Candidate Bean Names" />
-      <item value="Map of singleton-only bean names, keyed by dependency type." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="218" />
-        <entry key="ENGLISH" value="219" />
+        <entry key="CHINESE" value="219" />
+        <entry key="ENGLISH" value="220" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="ITALIAN" value="1" />
       </map>
