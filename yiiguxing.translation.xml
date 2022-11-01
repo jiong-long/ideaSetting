@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Advisor" />
       <item value="Instantiation" />
       <item value="disable" />
       <item value="RANDOM PORT" />
@@ -50,12 +51,11 @@
       <item value="/** * Returns the number of one-bits in the two's complement binary * representation of the specified {@code int} value. This function is * sometimes referred to as the &lt;i&gt;population count&lt;/i&gt;. * * @param i the value whose bits are to be counted * @return the number of one-bits in the two's complement binary * representation of the specified {@code int} value. * @since 1.5 */" />
       <item value="internal" />
       <item value="Upgrade" />
-      <item value="get Candidate Bean Names" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="219" />
-        <entry key="ENGLISH" value="220" />
+        <entry key="CHINESE" value="220" />
+        <entry key="ENGLISH" value="221" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="ITALIAN" value="1" />
       </map>
