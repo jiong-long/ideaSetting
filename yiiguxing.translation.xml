@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Embedded" />
       <item value="issue" />
       <item value="disabled" />
       <item value="disable" />
@@ -50,12 +51,11 @@
       <item value="圈" />
       <item value="循环" />
       <item value="Assertion Error" />
-      <item value="tow" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="225" />
-        <entry key="ENGLISH" value="226" />
+        <entry key="CHINESE" value="226" />
+        <entry key="ENGLISH" value="227" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="ITALIAN" value="1" />
       </map>
