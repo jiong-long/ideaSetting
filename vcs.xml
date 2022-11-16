@@ -410,6 +410,10 @@
           <option name="url" value="http://git.dev.qianmi.com/gcs/yxtc-task.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.dev.qianmi.com/qmcrm-and-qmuc/admin-crm-api" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/dev/idea-workspace" />
