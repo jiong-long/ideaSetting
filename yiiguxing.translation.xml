@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="关注" />
       <item value="Embedded" />
       <item value="issue" />
       <item value="disabled" />
@@ -27,7 +28,6 @@
       <item value="Constructor" />
       <item value="suggestion" />
       <item value="重点关注" />
-      <item value="关注" />
       <item value="focus" />
       <item value="yield" />
       <item value="收益率" />
@@ -54,7 +54,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="226" />
+        <entry key="CHINESE" value="227" />
         <entry key="ENGLISH" value="227" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="ITALIAN" value="1" />
