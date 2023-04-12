@@ -442,6 +442,18 @@
           <option name="url" value="http://10.1.160.67/odsws/uni-platform/athena.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.1.160.67/odsws/uni-platform/web.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.1.160.67/odsws/uni-platform/zeus-common.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.1.160.67/odsws/uni-platform/zeus-execute.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/dev/hx-workspace/uni-platform" />

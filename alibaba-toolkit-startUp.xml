@@ -5,6 +5,9 @@
     <entry projectPath="$USER_HOME$/dev/hx-workspace/console" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/dev/hx-workspace/uni-platform/apollo" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/dev/hx-workspace/uni-platform/athena" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/dev/hx-workspace/uni-platform/web" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/dev/hx-workspace/uni-platform/zeus-common" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/dev/hx-workspace/uni-platform/zeus-execute" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/dev/idea-workspace" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/dev/idea-workspace/MarkBook" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/dev/idea-workspace/acct-micro-base" startUpFlag="FIRST" />
