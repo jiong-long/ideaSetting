@@ -1,6 +1,7 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectPath="$USER_HOME$/dev/hx-workspace" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/dev/idea-workspace" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/dev/idea-workspace/MarkBook" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/dev/idea-workspace/acct-micro-base" startUpFlag="FIRST" />
