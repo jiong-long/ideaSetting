@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary" />
+      <item value="unnecessary" />
+      <item value="manual" />
+      <item value="The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary." />
       <item value="zone" />
       <item value="tow" />
       <item value="undertow" />
@@ -47,15 +51,11 @@
       <item value="统计" />
       <item value="multiply" />
       <item value="Subscribe" />
-      <item value="Condition Outcome" />
-      <item value="Outcome" />
-      <item value="commission" />
-      <item value="seniorguide" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="232" />
-        <entry key="ENGLISH" value="233" />
+        <entry key="CHINESE" value="236" />
+        <entry key="ENGLISH" value="237" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="ITALIAN" value="1" />
       </map>
