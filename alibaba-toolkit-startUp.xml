@@ -3,6 +3,7 @@
     <option name="globalFirstStartUp" value="false" />
     <entry projectPath="$USER_HOME$/dev/hx-workspace" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/dev/hx-workspace/console" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/dev/hx-workspace/java-api-kubernetes" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/dev/hx-workspace/uni-platform/apollo" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/dev/hx-workspace/uni-platform/athena" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/dev/hx-workspace/uni-platform/web" startUpFlag="FIRST" />
