@@ -39,23 +39,21 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
-    <library name="scala-sdk-2.12.7" type="Scala">
+    <library name="scala-sdk-2.13.1" type="Scala">
       <properties>
+        <language-level>Scala_2_13</language-level>
         <compiler-classpath>
-          <root url="file://$USER_HOME$/dev/bigdata/scala/scala-2.12.7/lib/scala-library.jar" />
-          <root url="file://$USER_HOME$/dev/bigdata/scala/scala-2.12.7/lib/scala-compiler.jar" />
-          <root url="file://$USER_HOME$/dev/bigdata/scala/scala-2.12.7/lib/scala-reflect.jar" />
+          <root url="file://$USER_HOME$/dev/bigdata/scala/scala-2.13.1/lib/scala-library.jar" />
+          <root url="file://$USER_HOME$/dev/bigdata/scala/scala-2.13.1/lib/scala-compiler.jar" />
+          <root url="file://$USER_HOME$/dev/bigdata/scala/scala-2.13.1/lib/scala-reflect.jar" />
         </compiler-classpath>
       </properties>
       <CLASSES>
-        <root url="jar://$USER_HOME$/dev/bigdata/scala/scala-2.12.7/lib/scala-library.jar!/" />
-        <root url="jar://$USER_HOME$/dev/bigdata/scala/scala-2.12.7/lib/scala-swing_2.12-2.0.3.jar!/" />
-        <root url="jar://$USER_HOME$/dev/bigdata/scala/scala-2.12.7/lib/scala-reflect.jar!/" />
-        <root url="jar://$USER_HOME$/dev/bigdata/scala/scala-2.12.7/lib/scala-parser-combinators_2.12-1.0.7.jar!/" />
-        <root url="jar://$USER_HOME$/dev/bigdata/scala/scala-2.12.7/lib/scala-xml_2.12-1.0.6.jar!/" />
+        <root url="jar://$USER_HOME$/dev/bigdata/scala/scala-2.13.1/lib/scala-library.jar!/" />
+        <root url="jar://$USER_HOME$/dev/bigdata/scala/scala-2.13.1/lib/scala-reflect.jar!/" />
       </CLASSES>
       <JAVADOC>
-        <root url="https://www.scala-lang.org/api/2.12.7/" />
+        <root url="https://www.scala-lang.org/api/2.13.1/" />
       </JAVADOC>
       <SOURCES />
     </library>
