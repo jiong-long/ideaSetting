@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="clndrdt Id" />
       <item value="min Partitions" />
       <item value="Example" />
       <item value="Adapts a ConfigMap into a volume. The contents of the target ConfigMap's Data field will be presented in a volume as files using the keys in the Data field as the file names, unless the items element is populated with specific mappings of keys to paths. ConfigMap volumes support ownership management and SELinux relabeling." />
@@ -50,7 +51,6 @@
       <item value="收益率" />
       <item value="收益" />
       <item value="buy Avg" />
-      <item value="Value serializer to use, if it can be statically determined" />
     </histories>
     <option name="languageScores">
       <map>
