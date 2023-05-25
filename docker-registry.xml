@@ -1,0 +1,9 @@
+<application>
+  <component name="DockerRegistry">
+    <DockerRegistry email="v_wangjinlong.js@chinatelecom.cn">
+      <option name="address" value="reg.harbor.com" />
+      <option name="name" value="Docker Registry" />
+      <option name="username" value="eda-bigdata" />
+    </DockerRegistry>
+  </component>
+</application>
