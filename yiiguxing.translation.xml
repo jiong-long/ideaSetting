@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="department" />
       <item value="pretty" />
       <item value="whether to delete the src" />
       <item value="to perform the get as" />
@@ -50,12 +51,11 @@
       <item value="secondary" />
       <item value="Add change notes here" />
       <item value="Constructor" />
-      <item value="suggestion" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="247" />
-        <entry key="ENGLISH" value="248" />
+        <entry key="CHINESE" value="248" />
+        <entry key="ENGLISH" value="249" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="ITALIAN" value="1" />
       </map>
