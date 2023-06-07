@@ -10,6 +10,7 @@
       <mapping ext="robot" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="setting" type="PLAIN_TEXT" />
+      <mapping ext="keytab" type="PLAIN_TEXT" />
       <mapping ext="lc" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
