@@ -7,6 +7,7 @@
       <mapping pattern="config_test" type="PLAIN_TEXT" />
       <mapping pattern="part-r-00001" type="PLAIN_TEXT" />
       <mapping pattern="part-r-00000" type="PLAIN_TEXT" />
+      <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping ext="keytab" type="PLAIN_TEXT" />
       <mapping ext="robot" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
